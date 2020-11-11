@@ -1,0 +1,7 @@
+Ejercicio 4: Lista de metas para el curso.
+
+1- Tener habilidades aptas y suficientes para poder programar una pagina web completa en react.
+2- Mejorar mis conocimentos en javascript
+3- Aprender cosas nuevas.
+4- Sentirme confiada con react.
+5- Poder desenvolverme mas en el ambito laboral por todo el conocimiento que me brindan del curso, ya sea por la programacion y tambien por como me ayudan a desenvolverme frente a personas que no conozco.

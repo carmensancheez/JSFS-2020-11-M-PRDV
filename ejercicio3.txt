@@ -1,0 +1,7 @@
+Ejercicio 3: Mejores fuentes de información para soluciones acerca de errores en Javascript.
+
+Developer Mozilla
+CodeAcademy
+Channel9
+Eloquent Javascript
+
